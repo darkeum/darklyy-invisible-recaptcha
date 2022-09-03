@@ -39,9 +39,9 @@ class InvisibleReCaptchaServiceProvider extends PackageServiceProvider
     {
         $this->app->singleton('recaptcha', function ($app) {
             return new InvisibleReCaptcha(
-                $app['config']['recaptcha.siteKey'],
-                $app['config']['recaptcha.secretKey'],
-                $app['config']['recaptcha.options']
+                $app['config']['invisible-recaptcha.siteKey'],
+                $app['config']['invisible-recaptcha.secretKey'],
+                $app['config']['invisible-recaptcha.options']
             );
         });
 
