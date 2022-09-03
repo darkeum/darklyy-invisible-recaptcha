@@ -1,7 +1,7 @@
 Добавляет Invisible reCAPTCHA в Darklyy
 ==========
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/darkeum/darklyy-json-attributes.svg?style=flat-square)](https://packagist.org/packages//darkeum/darklyy-json-attributes)
-[![Total Downloads](https://img.shields.io/packagist/dt/darkeum/darklyy-json-attributes.svg?style=flat-square)](https://packagist.org/packages/darkeum/darklyy-json-attributes)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/darkeum/darklyy-invisible-recaptcha.svg?style=flat-square)](https://packagist.org/packages//darkeum/darklyy-invisible-recaptcha)
+[![Total Downloads](https://img.shields.io/packagist/dt/darkeum/darklyy-invisible-recaptcha.svg?style=flat-square)](https://packagist.org/packages/darkeum/darklyy-invisible-recaptcha)
 
 ## Почему Invisible reCAPTCHA?
 
