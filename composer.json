@@ -41,7 +41,7 @@
     "extra": {
         "darklyy": {
             "providers": [
-                "Darkeum\\JsonAttributes\\InvisibleReCaptchaServiceProvider"
+                "Darkeum\\InvisibleReCaptcha\\InvisibleReCaptchaServiceProvider"
             ]
         }
     },
