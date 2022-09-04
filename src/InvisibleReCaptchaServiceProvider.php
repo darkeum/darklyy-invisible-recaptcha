@@ -58,7 +58,7 @@ class InvisibleReCaptchaServiceProvider extends PackageServiceProvider
     public function bootingPackage()
     {
         $this->app['validator']->extend('recaptcha', function ($attribute, $value) {
-            return $this->app['captcha']->verifyResponse($value, $this->app['request']->getClientIp());
+            return $this->app['recaptcha']->verifyResponse($value, $this->app['request']->getClientIp());
         });
     }
 
